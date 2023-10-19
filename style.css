@@ -1,0 +1,17 @@
+.body{
+    background-color: beige;
+}
+
+
+.cabecario{
+    text-align: center;
+   /* background-color: red;*/
+    font-size: 40px;
+    color: black;
+}
+
+.textoprincipal{ 
+    text-align: center;
+    background-color: gray;
+
+}
